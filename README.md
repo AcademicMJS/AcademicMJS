@@ -1,4 +1,1 @@
-Hi, there! This file is under construction. :construction_worker:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AcademicMJS&theme=transparent)
-
+![Hey, this is me!](https://github.com/AcademicMJS/AcademicMJS/blob/main/AcademicMJS.gif)
